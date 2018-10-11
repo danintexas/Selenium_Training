@@ -61,6 +61,5 @@ public class OpenBrowsers {
 		System.out.println(ieDriver.getTitle());
 		System.out.println("IE Browser: " + ieTitle);
 		ieDriver.quit();
-		
 	}
 }
