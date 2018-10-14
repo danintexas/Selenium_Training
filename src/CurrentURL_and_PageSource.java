@@ -1,3 +1,5 @@
+// Script to check and report the current URL and Title
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
